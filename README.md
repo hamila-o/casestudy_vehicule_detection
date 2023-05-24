@@ -1,1 +1,1 @@
-# instadeep_vehicule_detection
+# casestudy_vehicule_detection
